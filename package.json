@@ -1,0 +1,12 @@
+{
+  "name": "NAME-OF-YOUR-TOKEN", // MAKE SURE YOU UPDATE THIS
+  "version": "1.0.0", // MAKE SURE YOU UPDATE THIS
+  "description": "PROVIDE-COMPLETE-DESCRIPTION-HERE-MAKE-SURE-ITS-COMPREHENSIVE", // MAKE SURE YOU UPDATE THIS
+  "main": "mpl_metadata.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node mpl_metadata.js"
+  },
+  "dependencies": {
+  }
+}

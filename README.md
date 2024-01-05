@@ -1,4 +1,5 @@
 HOW TO SETUP AND RUN SCRIPTS - TO ADD METADATA TO SOLANA TOKEN VIA METAPLEX
+BY FXPRO - Copyright 2024 - GPL3.0 License
 
 ### Note that I made this script because of 3 reasons:
 - Solana / Metaplex keep changing the Metadata versions/processes and it has become a nightmare to create metadata for your Solana Token

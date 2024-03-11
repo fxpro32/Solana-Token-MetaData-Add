@@ -11,12 +11,12 @@ BY FXPRO - Copyright 2024 - GPL3.0 License
 
 #############################################################################################################
 #################### Follow these instructions to implement the metadata via metaplex #######################
-# Note that it is assumed:                                                                                  #
-# a) You have already created your token                                                                    #
-# b) You have added a number of tokens to the account                                                       #
-# c) You have at least 0.01 SOL in your primary Solana Account that you use to create the tokens            #
-# d) You have a general knowledge on how to navigate through Linux CLI and Create Solana Tokens             #
-# e) You know that I do not offer support for this, its provided to you AS IS with no warranties whatsoever #
+## Note that it is assumed:                                                                                  #
+- # a) You have already created your token                                                                    #
+- # b) You have added a number of tokens to the account                                                       #
+- # c) You have at least 0.01 SOL in your primary Solana Account that you use to create the tokens            #
+- # d) You have a general knowledge on how to navigate through Linux CLI and Create Solana Tokens             #
+- # e) You know that I do not offer support for this, its provided to you AS IS with no warranties whatsoever #
 #############################################################################################################
 
 DO THESE STEPS IN SEQUENCE:
